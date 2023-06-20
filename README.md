@@ -14,7 +14,7 @@ I'm currently delving into the JavaScript language.
 
 ------------------------------
 
-## 🛠️ Technologies I currently use and study.
+## 💻 Technologies I currently use and study.
 
 <div style="display: inline_block"><br/> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
