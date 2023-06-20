@@ -27,10 +27,10 @@ I'm currently delving into the JavaScript language.
 
 ## ⚙ Projects
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lauarnog&repo=project-tiktok&theme=dark)](https://github.com/lauarnog/project-tiktok.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lauarnog&repo=projeto-rede-social&theme=dark)](https://github.com/lauarnog/projeto-rede-social.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lauarnog&repo=projeto-android&theme=dark)](https://github.com/lauarnog/projeto-android.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lauarnog&repo=mario-jump&theme=dark)](https://github.com/lauarnog/mario-jump.git)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lauarnog&repo=projeto-login&theme=dark)](https://github.com/lauarnog/projeto-login.git)
 
 ---------------------------
 
