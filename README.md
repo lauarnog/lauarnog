@@ -2,7 +2,7 @@
 
 ## 🔎 About me
 
-My name is Henrique Lauar, I'm a programming student passionate about technology, books, film, music and crypto 🔒.
+My name is Henrique Lauar, I'm a programming student passionate about technology, games, books, film, music and crypto 🔒.
 I believe in the power of constancy and discipline, that's why I study every day always looking to evolve a little. One step at a time.
 I'm currently delving into the JavaScript language.
 
@@ -30,9 +30,9 @@ I'm currently delving into the JavaScript language.
 
 ## ⚙ Projects
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lauarnog&repo=game-space-invaders&theme=dark)](https://github.com/lauarnog/game-space-invaders.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lauarnog&repo=project-tiktok&theme=dark)](https://github.com/lauarnog/project-tiktok.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lauarnog&repo=projeto-rede-social&theme=dark)](https://github.com/lauarnog/projeto-rede-social.git)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lauarnog&repo=projeto-android&theme=dark)](https://github.com/lauarnog/projeto-android.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lauarnog&repo=mario-jump&theme=dark)](https://github.com/lauarnog/mario-jump.git)
 
 ---------------------------
